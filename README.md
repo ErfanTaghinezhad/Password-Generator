@@ -27,7 +27,7 @@ A simple Python project to generate passwords based on user inputs. This script 
 
 3. Run the script:
     ```sh
-    python password_generator.py
+    python Password-Generator.py
     ```
 
 4. Follow the on-screen prompts:
